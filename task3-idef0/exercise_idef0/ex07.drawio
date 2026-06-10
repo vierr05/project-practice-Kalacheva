@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="6kJwCA3_Y0sfuO8co5Ly">
+    <mxGraphModel dx="717" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-27" edge="1" parent="1" source="WFrJ83BaBP8QLjcPY3qZ-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="AAzhMLmGjd5WZSMt2Vzg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-35" edge="1" parent="1" source="WFrJ83BaBP8QLjcPY3qZ-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0.45;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="250" y="270" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WFrJ83BaBP8QLjcPY3qZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;A1 Разработать продукт&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="170" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-14" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="WFrJ83BaBP8QLjcPY3qZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Дизайн&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="20" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-16" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="WFrJ83BaBP8QLjcPY3qZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Технические требования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="165" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-32" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="AAzhMLmGjd5WZSMt2Vzg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-33" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;A2 Протестировать&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="400" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;План тестирования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="414" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-29" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AAzhMLmGjd5WZSMt2Vzg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Готовый продукт&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-34" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endArrow=none;endFill=0;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="490" y="320" as="sourcePoint" />
+            <mxPoint x="250" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Отчет об ошибках" vertex="1">
+          <mxGeometry height="30" width="160" x="290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Разработчики, QA&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="190" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzhMLmGjd5WZSMt2Vzg-40" edge="1" parent="1" source="AAzhMLmGjd5WZSMt2Vzg-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="AAzhMLmGjd5WZSMt2Vzg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
